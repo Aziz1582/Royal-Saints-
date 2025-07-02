@@ -1,0 +1,12 @@
+specVersion: "v1"
+serviceId: "royal-saints-tuition"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "royal-saints-tuition-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]

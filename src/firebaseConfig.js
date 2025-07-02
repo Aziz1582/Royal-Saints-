@@ -9,10 +9,9 @@ const firebaseConfig = {
   projectId: "royal-saints",
   storageBucket: "royal-saints.appspot.com",
   messagingSenderId: "YOUR_SENDER_ID",
-  appId: "royal-saints"
+  appId: "AIzaSyAXmXdCWfQQpYDvO82aCMeiHkc-UDV5fGk"
 };
 
 const app = initializeApp(firebaseConfig);
-
 export const auth = getAuth(app);
 export const db = getFirestore(app);
