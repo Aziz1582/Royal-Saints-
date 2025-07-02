@@ -1,0 +1,1 @@
+// AssignmentPage component placeholder
