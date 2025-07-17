@@ -1,0 +1,25 @@
+[debug] [2025-07-17T16:14:01.906Z] ----------------------------------------------------------------------
+[debug] [2025-07-17T16:14:01.912Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\FTOU21-014\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-07-17T16:14:01.913Z] CLI Version:   14.11.0
+[debug] [2025-07-17T16:14:01.913Z] Platform:      win32
+[debug] [2025-07-17T16:14:01.913Z] Node Version:  v22.17.1
+[debug] [2025-07-17T16:14:01.914Z] Time:          Thu Jul 17 2025 18:14:01 GMT+0200 (Central Africa Time)
+[debug] [2025-07-17T16:14:01.914Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-07-17T16:14:02.393Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-07-17T16:14:02.394Z] > authorizing via signed-in user (alonemandedu@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\FTOU21-014\Royal-Saints-\royal-saints-clean
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
